@@ -1,5 +1,7 @@
 # Unix Shell
 
+A basic shell implemented in C that supports all basic unix commands, sequencing, piping, and input/output redirection.
+
 - `make all` - compile everything
 - `make tokenize` - compile the tokenizer demo
 - `make tokenize-tests` - compile the tokenizer demo
